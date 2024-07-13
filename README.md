@@ -16,3 +16,9 @@ git submodule add https://github.com/glfw/glfw.git <path/to>
 	path = external/glfw
 	url = https://github.com/glfw/glfw.git
 ```
+
+* commit to ur repo
+```
+git add .
+git commit -m "added a submodules"
+```
