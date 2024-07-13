@@ -75,3 +75,9 @@ git submodule update --init --recursive
 ```cmd
 git clone --recurse-submodules https://github.com/ripcode0/submodule-engine.git
 ```
+
+* you can also create and distibute a batch(cmd) file
+
+```cmd
+submodule_update.cmd
+```
